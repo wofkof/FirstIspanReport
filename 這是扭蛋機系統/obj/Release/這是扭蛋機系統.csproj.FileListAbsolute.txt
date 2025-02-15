@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.ForgotPasswordForm.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Form1.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Form3.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Form4.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormAnimal.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormAnime.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormBuyMoney.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormFurniture.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormGashaponLog.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.FormHome.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.FormCute.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormPractical.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.FormUserHome.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.Forms.SubProductsForm.resources
+C:\Users\USER\source\repos\這是扭蛋機系統\這是扭蛋機系統\obj\Release\這是扭蛋機系統.csproj.GenerateResource.cache
