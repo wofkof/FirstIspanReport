@@ -1,1 +1,7 @@
+![螢幕擷取畫面 2025-05-24 010938](https://github.com/user-attachments/assets/29499975-7d15-4f17-9026-cae578fe074d)
 ![Gashapon](https://github.com/user-attachments/assets/3372d1fb-f389-475d-8c1c-d3a329bb8c7d)
+![螢幕擷取畫面 2025-05-24 011010](https://github.com/user-attachments/assets/819ac90b-665c-4630-a82e-eff22ce6578c)
+![螢幕擷取畫面 2025-05-24 011049](https://github.com/user-attachments/assets/fd8c7fc9-fdbf-467b-beac-ec9df3507439)
+![螢幕擷取畫面 2025-05-24 011212](https://github.com/user-attachments/assets/6e257af4-db70-4da0-9601-14a3595543e3)
+![螢幕擷取畫面 2025-05-24 011233](https://github.com/user-attachments/assets/6e266d54-6d44-4e69-852d-914ccced8925)
+![螢幕擷取畫面 2025-05-24 011303](https://github.com/user-attachments/assets/6084398e-22e4-409e-a9b9-f0d114879063)
