@@ -15,6 +15,7 @@ namespace 這是扭蛋機系統
         public string ClockInStatus { get; set; }
         public string ClockOutStatus { get; set; }
     }
+
     public class EmployeeDto
     {
         public int UserID { get; set; }
